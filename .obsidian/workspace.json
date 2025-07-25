@@ -11,14 +11,14 @@
             "id": "e81ae5a8a097b547",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/思/Placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Placeholder"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/思/Placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Placeholder"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/思/Placeholder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Placeholder"
             }
           },
           {
@@ -176,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e81ae5a8a097b547",
+  "active": "89e566d0f6dbf776",
   "lastOpenFiles": [
+    "docs/思/Placeholder.md",
     "README.md"
   ]
 }
