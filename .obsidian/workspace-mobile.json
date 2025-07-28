@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/思/留下痕迹.md",
+                "file": "docs/行/掌控 Feeds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "留下痕迹"
+              "title": "掌控 Feeds"
             }
           }
         ]
@@ -139,9 +139,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "65825093a59e9e39",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +166,9 @@
   },
   "active": "2c9fbb64cfd331e1",
   "lastOpenFiles": [
+    "docs/思/留下痕迹.md",
+    "docs/行/掌控 Feeds.md",
+    "docs/行",
     "README.md"
   ]
 }
