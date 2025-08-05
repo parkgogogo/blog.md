@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "掌控 Feeds"
             }
+          },
+          {
+            "id": "002632c502b5fdd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3aa7d80a2c656d3",
+  "active": "002632c502b5fdd6",
   "lastOpenFiles": [
     "docs/行/掌控 Feeds.md",
-    "docs/行",
+    "test.md.md",
+    "docs/思/留下痕迹.md",
     "README.md",
-    "docs/思/留下痕迹.md"
+    "docs/行"
   ]
 }
