@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/作/Blog.next.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Blog.next"
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +181,12 @@
   },
   "active": "874104784ba77259",
   "lastOpenFiles": [
-    "docs/行/Feeds.md",
-    "Untitled.canvas",
     "docs/思/留下痕迹.md",
-    "attachment/CleanShot 2025-08-09 at 13.45.17@2x.webp",
-    "docs/作/Blog.next.md",
+    "docs/行/Feeds.md",
     "README.md",
+    "docs/作/Blog.next.md",
+    "Untitled.canvas",
+    "attachment/CleanShot 2025-08-09 at 13.45.17@2x.webp",
     "attachment",
     "CleanShot 2025-08-09 at 13.45.17@2x.webp",
     "CleanShot 2025-08-09 at 13.45.17@2x.png",
