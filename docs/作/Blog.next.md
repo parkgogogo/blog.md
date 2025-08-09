@@ -1,2 +1,1 @@
-
-![[CleanShot 2025-08-09 at 13.45.17@2x.webp|500x352]]
+![functions](../../attachment/CleanShot%202025-08-09%20at%2013.45.17@2x.webp)
