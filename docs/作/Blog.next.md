@@ -28,3 +28,8 @@
 ## AI
 - [ ] auto tanslate
 - [ ] summarise
+
+# Bugs
+- [x] post 的日期存在问题，不是文章更新的日期
+- [x] Blog 列表时间排序问题修复
+- [x] 优化 rss 缓存机制

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68cfe9e491f6f879",
+        "id": "d4cc4c200c5ef3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "874104784ba77259",
+            "id": "f15c26fbec985cfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "docs/作/Blog.next.md",
-                "mode": "source",
-                "source": true
+                "aFile": "Excalidraw/Drawing 2025-08-10 22.56.21.excalidraw.md",
+                "bFile": "Excalidraw/Drawing 2025-08-10 22.56.21.excalidraw.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Blog.next"
+              "icon": "diff",
+              "title": "Diff: Drawing 2025-08-10 22.56.21.excalidraw"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 642.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,18 +176,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "80b4ea59001ab203",
   "lastOpenFiles": [
-    "docs/食/COMMUNE幻师.md",
-    "docs/食",
+    "attachment/IMG_1942.webp",
     "attachment/IMG_1941.webp",
-    "docs/思/留下痕迹.md",
-    "docs/行/Feeds.md",
+    "Excalidraw/Drawing 2025-08-10 22.56.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-10 22.56.21.excalidraw.svg",
     "README.md",
     "docs/作/Blog.next.md",
+    "Excalidraw",
+    "docs/食/COMMUNE幻师.md",
+    "docs/行/Feeds.md",
+    "docs/思/留下痕迹.md",
+    "attachment/IMG_1946.jpeg",
+    "attachment/IMG_1945.webp",
+    "docs/食",
     "Untitled.canvas",
     "attachment/CleanShot 2025-08-09 at 13.45.17@2x.webp",
     "attachment",

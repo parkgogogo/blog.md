@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23c031bf8ec857e4",
+        "id": "97e65fdee66b5464",
         "type": "tabs",
         "children": [
           {
-            "id": "87011dc8991b4b63",
+            "id": "7d8f5f312163876a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/作/Blog.next.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Blog.next"
             }
           }
         ]
@@ -160,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87011dc8991b4b63",
+  "active": "7d8f5f312163876a",
   "lastOpenFiles": [
     "docs/食/COMMUNE幻师.md",
     "attachment/IMG_1946.jpeg",
